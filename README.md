@@ -31,7 +31,12 @@ A Flutter plugin for accessing TensorFlow Lite API. Supports image classificatio
 
 ## Installation
 
-Add `tflite` as a [dependency in your pubspec.yaml file](https://flutter.io/using-packages/).
+Add  this to your flutter dependencies
+```
+tflite:
+    git:
+      url: https://github.com/St-Luciferr/flutter_tflite.git
+```
 
 ### Android
 
